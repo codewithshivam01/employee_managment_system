@@ -40,7 +40,7 @@ const HomePage = () => {
       const res = await getPeople.json();
       setEmpData(res);
     } catch (error) {
-      console.log(error);
+      //console.log(error);
     }
   };
 
