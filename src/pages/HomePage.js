@@ -57,7 +57,7 @@ const HomePage = () => {
         <div className="flex items-center justify-between">
           <div>
             <h2 className="text-lg font-medium text-gray-800 dark:text-white">
-              Employees
+              Emp
             </h2>
             <p className="mt-1 text-sm text-gray-500 dark:text-gray-300">
               This is a list of all employees. You can add new employees, edit
